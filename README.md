@@ -22,7 +22,7 @@ headers = {}  # public repo needs no auth
 # ----------------------------
 zip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
-resp.raise_for_statu()
+resp.raise_for_stat()
 
 # Unpack the zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
