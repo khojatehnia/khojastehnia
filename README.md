@@ -3,7 +3,7 @@
 
 
 import pfile
-import io
+
 import os
 
 # ----------------------------
