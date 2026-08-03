@@ -12,7 +12,7 @@
           # e.g. "torvalds"
            # e.g. "linux"
  =           #  you need
-# , set a token here:
+# , a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
   # public repo needs no auth
