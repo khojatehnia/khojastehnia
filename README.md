@@ -11,7 +11,7 @@
 # ----------------------------
           # e.g. "torvalds"
            # e.g. "linux"
- =           #  you need
+ =           #
 # , a here:
  = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
