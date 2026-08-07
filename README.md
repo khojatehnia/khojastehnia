@@ -13,7 +13,7 @@
            # e.g. "linux"
  =           #
 
- = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
   # repo needs no auth
 
