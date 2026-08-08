@@ -10,7 +10,7 @@
 
 # ----------------------------
           # e.g. "torvalds"
-           # e.g. "linux"
+           "linux"
  =           #
 
 _XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
