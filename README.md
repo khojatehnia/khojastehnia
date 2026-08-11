@@ -15,7 +15,7 @@
 
 _XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
-   needs no auth
+   no auth
 
 # ----------------------------
 # 2️⃣  FETCH ZIP ARCHIVE (quickest way to get the whole repo)
