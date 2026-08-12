@@ -14,7 +14,7 @@
  =           #
 
 _XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-# headers = {"Authorization": f"token {token}"}
+aders = {"Authorization": f"token {token}"}
    no auth
 
 # ----------------------------
