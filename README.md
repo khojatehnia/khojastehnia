@@ -14,7 +14,7 @@
  =           #
 
 _XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-= {"Authorization": f"token {token}"}
+horization": f"token {token}"}
  
 
 # ----------------------------
