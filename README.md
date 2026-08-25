@@ -18,7 +18,7 @@ _XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
  
 
 # ----------------------------
- FETCH ZIP ARCHIVE (quickest way to get the whole repo)
+ FZIP ARCHIVE (quickest way to get the whole repo)
 # ----------------------------
 zip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
