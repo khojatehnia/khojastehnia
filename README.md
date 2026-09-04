@@ -11,7 +11,7 @@
 ------------------------
           # e.g. "torvalds"
            "linux"
- =           #
+           #
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
