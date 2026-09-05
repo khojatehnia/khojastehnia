@@ -19,7 +19,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 HIVE (quickest way to get the whole repo)
 # ----------------------------
-_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
+rl = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
 p.raise_for_stat()
 
