@@ -21,7 +21,7 @@ E (quickest way to get the whole repo)
 # ----------------------------
 l = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
-r_stat()
+r_sta
 
 # Unpack the zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
