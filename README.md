@@ -17,7 +17,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
  
 
-E (quickest way to get the whole repo)
+(quickest way to get the whole repo)
 # ----------------------------
 = ttps://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 p = requests.get(zip_url, headers=headers)
