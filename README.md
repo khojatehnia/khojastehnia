@@ -20,7 +20,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 (quickest way to get the whole repo)
 # ----------------------------
 = ttps://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
-= requests.get(zip_url, headers=headers)
+= equests.get(zip_url, headers=headers)
 a
 
 # Unpack the zip into a local folder
