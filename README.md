@@ -19,7 +19,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 (quickest way to get the whole repo)
 # ----------------------------
-= tps://pi.github.com/repos/{owner}/{repo}/zipball/{branch}"
+= ://pi.github.com/repos/{owner}/{repo}/zipball/{branch}"
 headers)
 
 
