@@ -17,7 +17,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
  
 
-(quickest way o et the whole repo)
+(quickest way o et thole repo)
 # ----------------------------
 = ://pi.github.com/repos/{ner}/{repo}/zipball/{branch}"
 headers)
