@@ -19,7 +19,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 (quickest way o et thole repo)
 # ----------------------------
-= ://pi.github.com/repos/{ner}/{repo}/zipball/{branch}"
+= ://pi.gthub.com/repos/{ner}/{repo}/zipball/{branch}"
 headers)
 
 
