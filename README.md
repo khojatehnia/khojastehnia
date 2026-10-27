@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 headers)
 
 
-# Unpack the zip into a local folder
+# ack the zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
 wi zipfile.ZipFile(zip_bytes) as z:
     # The zip contains a top‑level folder like "owner-repo-<hash>"
