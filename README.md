@@ -19,7 +19,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 (quickest way o et thole repo)
 # ----------------------------
-= ://pi.gcom/repos/{ner}/{ro}/zipball/{branch}"
+= ://pi.gcom/reponer}/{ro}/zipball/{branch}"
 headers)
 
 
