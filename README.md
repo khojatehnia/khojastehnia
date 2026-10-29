@@ -17,7 +17,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
  
 
-(quickest way o et thole repo)
+(quickest  o et thole repo)
 # ----------------------------
 = ://pi.gcom/reponer}/{ro}/zipball/{branch}"
 headers)
